@@ -12,7 +12,7 @@ https://www.linkedin.com/in/marco-antonio-godoy
 ## Data:
 In this practical application, the goal is to compare the performance of the classifiers we encountered in this section, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. 
 
-The dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. We will make use of the article accompanying the dataset here for more information on the data and features.
+The dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. We will make use of the article accompanying the dataset here for more information on the data and features. The article can be accessed here: https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-III/blob/78a4b9827eb5eca75aef5cdca7a761588aff5b34//CRISP-DM-BANK.pdf
 
 The dataset contains information from a total of 79,354 contacts obtained from 17 campaigns that took place between May 2008 and November 2010.
 
